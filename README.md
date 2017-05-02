@@ -10,3 +10,5 @@ The R script "run_analysis.R" does the following:
 3)Read and Merge the train and test files
 
 4)Create a tidy dataset containing only the mean and stds values
+
+The result of the script can be seen in the tidydata.txt file.
